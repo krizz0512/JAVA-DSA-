@@ -10,7 +10,7 @@ public class Switchstatement {
          case 3: System.out.println("mango shake");
                    break;
          default : System.out.println("we wake up");                             
-
+       //match integer or character with case suffix then print acc to it
       }
  }
 }
