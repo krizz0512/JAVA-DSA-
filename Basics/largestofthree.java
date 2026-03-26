@@ -1,5 +1,7 @@
 public class largestofthree {
     public static void main(String[] args) {
+        
+    } {
         int A= 1;
         int B= 3;
         int C= 6;
