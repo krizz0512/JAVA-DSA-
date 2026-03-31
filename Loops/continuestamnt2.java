@@ -12,5 +12,7 @@ public class continuestamnt2 {
             }
             System.out.println("number was:" +n);
         }while(true);
+        //while(true) means → "keep looping FOREVER because 
+                      //true is ALWAYS true"
     }
 }
