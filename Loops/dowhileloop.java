@@ -7,4 +7,4 @@ public class dowhileloop {
         } while(counter<=10);
     }
 }
-//in do while loop first we assign a work in do and then print in while 
+//in do while loop first we assign a code in do and then condition in while 
